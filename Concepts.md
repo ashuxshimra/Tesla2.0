@@ -1,0 +1,1 @@
+//for animation , react reveal is used and so first installed then from its documentation imported it , and used here , here for buttons we have used fade effect
